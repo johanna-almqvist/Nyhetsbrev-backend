@@ -1,6 +1,6 @@
 # Nyhetsbrev-backend
 
-## Steg att komma igång
+## För att komma igång
 
 Se till att du har installerat MongoDB lokalt på datorn.
 
